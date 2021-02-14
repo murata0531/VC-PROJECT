@@ -1,0 +1,9 @@
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\bin\Debug\csg020_HelloCSharp.exe.config
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\bin\Debug\csg020_HelloCSharp.exe
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\bin\Debug\csg020_HelloCSharp.pdb
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\obj\Debug\csg020_HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\obj\Debug\csg020_HelloCSharp.Form1.resources
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\obj\Debug\csg020_HelloCSharp.Properties.Resources.resources
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\obj\Debug\csg020_HelloCSharp.csproj.GenerateResource.Cache
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\obj\Debug\csg020_HelloCSharp.exe
+c:\users\2180020.maetel\documents\visual studio 2015\Projects\csg020_HelloCSharp\csg020_HelloCSharp\obj\Debug\csg020_HelloCSharp.pdb
